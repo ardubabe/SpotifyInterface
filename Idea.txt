@@ -1,0 +1,10 @@
+Using spotify API and weather API
+
+Get the most popular songs played from different genres eg. electronic, pop, rock during specific weather conditions eg. heatwave, raining, overcast.
+For example: The most played electronic song during summer nights was Oblivion by Grimes.
+Then create playlists based on either just the most popular song of x season over an x amount of years, 
+or create a playlist of the top 100 songs from x genre in x season,
+or create a playlist of 100 songs like the top song in x genre in x season
+visual playlists
+
+<3
